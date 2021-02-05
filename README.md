@@ -1,4 +1,4 @@
-![logo](https://telegra.ph/file/8109bf8f6b27ce9b45ff1.jpg)
+
 <h1 align="center">αcutєвσt</h1>
 
 <b>Modular telegram bot to get Movies, Anime, Muisc & much more!</b>
